@@ -1,0 +1,16 @@
+{
+    "name": "NewsWatcher",
+    "version": "0.0.0",
+    "description":"News Watcher Implemented with Mean Stack",
+    "main": "server.js",
+    "author": {
+        "name": "Jue Ning",
+        "email": "juening@gmail.com"
+    },
+    "scripts":{
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.13.4"
+    }
+}
